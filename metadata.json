@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Hispano-Armenio",
+  "description": "50 հարց և շուտասելուկներ՝ իսպաներենի ուսուցման ինտերակտիվ խաղ Pasapalabra հայերեն թարգմանություններով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
